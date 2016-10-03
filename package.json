@@ -1,0 +1,32 @@
+{
+  "name": "swplay",
+  "version": "0.1.0",
+  "description": "spotify web player wrapper build with electron.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b1tdust/swplay.git"
+  },
+  "keywords": [
+    "spotify",
+    "web",
+    "player",
+    "electro.io",
+    "node",
+    "iojs"
+  ],
+  "author": "Brian Mayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b1tdust/swplay/issues"
+  },
+  "homepage": "https://github.com/b1tdust/swplay#readme",
+  "devDependencies": {
+    "devtron": "^1.3.0",
+    "electron-packager": "^8.1.0",
+    "electron-prebuilt": "^1.4.2"
+  }
+}
